@@ -104,7 +104,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RNF-020 |Excluir Conta|O usuário poderá excluir sua conta caso queira.|
 |RNF-021 |Manter Login|O software deve continuar com o login efetuado após a saida do site. |
 |RNF-022 |Visualizar Histórico|O software deve possuir a funcionalidade de visualizar as receitas que foram visualizadas anteriormente.|
-
+|RNF-023 |Seguir Usuários|O software deve possuir a funcionalidade de seguir usuários.|
 
 
 
