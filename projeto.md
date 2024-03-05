@@ -1,6 +1,6 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *CHEF VIRTUAL*
 
 # PROJETO DE SOFTWARE
 
@@ -82,8 +82,31 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 |Cadrastar Usuario|O usuario deve conseguir se cadastrar no site com email e senha.|
+|RNF-002 |Efetuar Login|Após o cadastro, o usuário deve conseguir efetuar login.|
+|RNF-003 |Publicar Receitas|Deve existir uma funcionalidade caso um usuário queira publicar uma receita.|
+|RNF-004 |Avaliar Receitas|Um usuário deve conseguir avaliar uma receita (opcional).|
+|RNF-005 |Modificar Receitas|O usuário deverá conseguir modificar sua receita publicada caso necessário.|
+|RNF-006 |Remover Receitas|O usuário poderá excluir suas receitar publicadas caso queira.|
+|RNF-007 |Comentar|O software deve permitir que o usuário comente em receitas públicas.|
+|RNF-008 |Denunciar Receitas|O software terá a funcionalidade de denunciar receitas, caso sejam inadequadas/impróprias.|
+|RNF-009 |Buscar Receitas|O software terá a funcionalidade de buscar receitas.|
+|RNF-010 |Favoritar Receitas|O software terá a função de favoritas receitas de seu agrado.|
+|RNF-011 |Restringir palavras inadequadas|O sistema deverá possuir uma filtragem para palavras inadequadas.|
+|RNF-012 |Criar listas|O usuário poderá criar uma lista e adicionar as receitas de sua preferencia para armazena-las de uma forma organizada. |
+|RNF-013 |Classificar dificuldade de receitas|Classificar receitas por seu grau de dificuldade.|
+|RNF-014 |Compartilhar receitas|O software deve possuir a funcionalidade de compartilhamento de receitas.|
+|RNF-015 |Filtrar receitas|O usuário poderá filtrar as receitas que quer visualizar.|
+|RNF-016 |Ocultar Receitas|O usuário poderá ocultar suas receitas públicadas caso queira.|
+|RNF-017 |Excluir Receitas|O usuário poderá excluir suas receitas públicadas caso queira.|
+|RNF-018 |Atualizar Recomendações|Quando o site é atualizado, ele deve mostrar receitas diferentes na página inicial.|
+|RNF-019 |Deslogar Conta|O usuário poderá sair da conta caso queira.|
+|RNF-020 |Excluir Conta|O usuário poderá excluir sua conta caso queira.|
+|RNF-021 |Manter Login|O software deve continuar com o login efetuado após a saida do site. |
+|RNF-022 |Visualizar Histórico|O software deve possuir a funcionalidade de visualizar as receitas que foram visualizadas anteriormente.|
+
+
+
 
 
 ## Requisitos Não Funcionais
@@ -91,8 +114,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 |Cadrastar Usuario|Descreva aqui as informações sobre o requisito |
+|RNF-002 |Efetuar Login|Descreva aqui as informações sobre o segundo requisito |
+
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
