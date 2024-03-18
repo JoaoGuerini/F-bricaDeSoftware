@@ -7,11 +7,12 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|João Pedro Guerini Pasquali|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|João Pedro Bento de Andrade|Programador|wagner.ferreira@ifro.edu.br|
+|João Vitor Lopes Almendra|Designer|wagner.ferreira@ifro.edu.br|
+|Ana Isabely R. Belchior|Programador|wagner.ferreira@ifro.edu.br|
+|Camille P. Pagani Dias|Programador|wagner.ferreira@ifro.edu.br|
+|Júlia Pereira Da Mata|Gestão de Equipe|wagner.ferreira@ifro.edu.br|
 
 
 # Sumário
@@ -103,8 +104,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RNF-019 |Deslogar Conta|O usuário poderá sair da conta caso queira.|
 |RNF-020 |Excluir Conta|O usuário poderá excluir sua conta caso queira.|
 |RNF-021 |Manter Login|O software deve continuar com o login efetuado após a saida do site. |
-|RNF-022 |Visualizar Histórico|O software deve possuir a funcionalidade de visualizar as receitas que foram visualizadas anteriormente.|
-|RNF-023 |Seguir Usuários|O software deve possuir a funcionalidade de seguir usuários.|
+|RNF-022 |Visualizar Histórico|O software deve possuir a funcionalidade de visualizar as receitas que foram visualizadas anteriormente.|    
 
 
 
