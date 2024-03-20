@@ -139,7 +139,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Classes
-![Imagem do Protótipo](/img/print.png)
+![Imagem do Protótipo](./img/print.jpg)
 [ [INÍCIO](#fibonacci-management-system) ]
 
 
