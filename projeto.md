@@ -7,12 +7,12 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|João Pedro Guerini Pasquali|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|João Pedro Bento de Andrade|Programador|wagner.ferreira@ifro.edu.br|
+|João Pedro Guerini Pasquali|Gerente de Projeto|guerini.joao@estudante.ifro.edu.br|
+|João Pedro Bento de Andrade|Programador|joao.a@estudante.ifro.edu.br|
 |João Vitor Lopes Almendra|Designer|wagner.ferreira@ifro.edu.br|
-|Ana Isabely R. Belchior|Programador|wagner.ferreira@ifro.edu.br|
-|Camille P. Pagani Dias|Programador|wagner.ferreira@ifro.edu.br|
-|Júlia Pereira Da Mata|Gestão de Equipe|wagner.ferreira@ifro.edu.br|
+|Ana Isabely R. Belchior|Programador|ana.isabely@estudante.ifro.edu.br|
+|Camille P. Pagani Dias|Programador|camille.dias@estudante.ifro.edu.br|
+|Júlia Pereira Da Mata|Gestão de Equipe|julia.p@estudante.ifro.edu.br|
 
 
 # Sumário
