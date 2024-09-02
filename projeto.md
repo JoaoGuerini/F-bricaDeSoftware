@@ -94,17 +94,16 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RNF-009 |Buscar Receitas|O software terá a funcionalidade de buscar receitas.|
 |RNF-010 |Favoritar Receitas|O software terá a função de favoritas receitas de seu agrado.|
 |RNF-011 |Restringir palavras inadequadas|O sistema deverá possuir uma filtragem para palavras inadequadas.|
-|RNF-012 |Criar listas|O usuário poderá criar uma lista e adicionar as receitas de sua preferencia para armazena-las de uma forma organizada. |
-|RNF-013 |Classificar dificuldade de receitas|Classificar receitas por seu grau de dificuldade.|
-|RNF-014 |Compartilhar receitas|O software deve possuir a funcionalidade de compartilhamento de receitas.|
-|RNF-015 |Filtrar receitas|O usuário poderá filtrar as receitas que quer visualizar.|
-|RNF-016 |Ocultar Receitas|O usuário poderá ocultar suas receitas públicadas caso queira.|
-|RNF-017 |Excluir Receitas|O usuário poderá excluir suas receitas públicadas caso queira.|
-|RNF-018 |Atualizar Recomendações|Quando o site é atualizado, ele deve mostrar receitas diferentes na página inicial.|
-|RNF-019 |Deslogar Conta|O usuário poderá sair da conta caso queira.|
-|RNF-020 |Excluir Conta|O usuário poderá excluir sua conta caso queira.|
-|RNF-021 |Manter Login|O software deve continuar com o login efetuado após a saida do site. |
-|RNF-022 |Visualizar Histórico|O software deve possuir a funcionalidade de visualizar as receitas que foram visualizadas anteriormente.|    
+|RNF-012 |Compartilhar receitas|O software deve possuir a funcionalidade de compartilhamento de receitas.|
+|RNF-013 |Excluir Receitas|O usuário poderá excluir suas receitas públicadas caso queira.|
+|RNF-014 |Atualizar Recomendações|Quando o site é atualizado, ele deve mostrar receitas diferentes na página inicial.|
+|RNF-015 |Deslogar Conta|O usuário poderá sair da conta caso queira.|
+|RNF-016 |Excluir Conta|O usuário poderá excluir sua conta caso queira.|
+|RNF-017 |Manter Login|O software deve continuar com o login efetuado após a saida do site. |
+|RNF-018 |Visualizar Histórico|O software deve possuir a funcionalidade de visualizar as receitas que foram visualizadas anteriormente.|   
+|RNF-019 |Editar Perfil|O usuário deverá conseguir editar as informações de seu perfil.|   
+|RNF-020 |Recuperar Senha|A aplicação terá a funcionalidade de redefinir senha, caso o usuário queira.|  
+
 
 
 
