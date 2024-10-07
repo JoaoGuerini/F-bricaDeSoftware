@@ -1,1 +1,17 @@
 
+.titulo{
+    display: flex;
+    margin-top: 5vh;
+    justify-content: center;
+}
+
+.receita{
+    width: 100vh;
+    
+}
+
+.dis_receita{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10vh;
+}
