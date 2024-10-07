@@ -1,1 +1,53 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins/Poppins-SemiBold.ttf') format('truetype');
+}
 
+:root {
+    --background-color-red: #ff3131;
+    --background-color-orange: #ff914d;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(to right, var(--background-color-red), var(--background-color-orange)) no-repeat;
+}
+
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.logo-div {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+    justify-content: center;
+}
+
+.infos-div {
+    width: 40%;
+    margin-left: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+
+}
+
+.infos-div > h2 {
+    width: 70%;
+    text-wrap:wrap;
+    font-size: 70pt;
+    font-family: "Poppins";
+    line-height: 10vh;
+
+
+}
+
+.infos-div > p {
+    font-family: "Poppins";
+    font-size: 20pt;
+}
