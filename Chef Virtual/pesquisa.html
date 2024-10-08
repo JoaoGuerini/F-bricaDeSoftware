@@ -1,1 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modal de Busca</title>
+    <link rel="stylesheet" href="css/modal.css">
+</head>
+<body>
+
+    <button onclick="openModal()">Abrir Busca</button>
+
+    <div class="overlay" id="modalOverlay">
+        <div class="modal">
+            <button class="close-btn" onclick="closeModal()">&#10006;</button>
+            <div class="search-icon">🔍</div>
+
+            <div class="filters">
+              
+                <div class="filter-group">
+                    <label>Nota</label>
+                    <div class="stars">
+                        <input type="radio" id="star5" name="rating" value="5">
+                        <label for="star5" onclick="selectRating(5)"></label>
+                        <input type="radio" id="star4" name="rating" value="4">
+                        <label for="star4" onclick="selectRating(4)"></label>
+                        <input type="radio" id="star3" name="rating" value="3">
+                        <label for="star3" onclick="selectRating(3)"></label>
+                        <input type="radio" id="star2" name="rating" value="2">
+                        <label for="star2" onclick="selectRating(2)"></label>
+                        <input type="radio" id="star1" name="rating" value="1">
+                        <label for="star1" onclick="selectRating(1)"></label>
+                    </div>
+                    
+                </div>
+
+
+                <div class="filter-group">
+                    <label>Tempo (Min.)</label>
+                    <select>
+                        <option value="selecione">Selecione</option>
+                        <option value="0-5">0-5 Minutos</option>
+                        <option value="5-15">5-15 Minutos</option>
+                        <option value="15-30">15-30 Minutos</option>
+                        <option value="30-60">30-60 Minutos</option>
+                        <option value="60-120">60-120 Minutos</option>
+                        <option value="120-240">120-240 Minutos</option>
+                        <option value="240-360">240-360 Minutos</option>
+                        <option value="360+">360+ Minutos</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>Tipos de Receitas</label>
+                    <select>
+                        <option>Selecione</option>
+                        <option>Doce</option>
+                        <option>Salgado</option>
+                    </select>
+                </div>
+
+                <div class="filter-group ingredients">
+                    <label>Ingredientes</label>
+                    <select>
+                        <option>Selecione</option>
+                    </select>
+                    <div class="ingredients-options">
+                        <label><input type="checkbox"> Morango</label>
+                        <label><input type="checkbox"> Abacate</label>
+                        <label><input type="checkbox"> Chocolate</label>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <label>País de Origem</label>
+                    <select>
+                        <option>Selecione</option>
+                        <option>Brasil</option>
+                        <option>Estados Unidos</option>
+                        <option>Itália</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script/script.js"></script>
+</body>
+</html>
 
