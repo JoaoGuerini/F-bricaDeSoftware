@@ -81,7 +81,7 @@ select, input[type="number"] {
     width: 30px;
     height: 30px;
     display: inline-block;
-    background: url('/img/estrelaF.png') no-repeat center;
+    background: url('/assets/img/estrelaF.png') no-repeat center;
     background-size: contain;
     cursor: pointer;
 }
@@ -89,7 +89,7 @@ select, input[type="number"] {
 .stars input:checked ~ label,
 .stars label:hover,
 .stars label:hover ~ label {
-    background: url('/img/estrelaC.png') no-repeat center;
+    background: url('/assets/img/estrelaC.png') no-repeat center;
     background-size: contain;
 }
 
