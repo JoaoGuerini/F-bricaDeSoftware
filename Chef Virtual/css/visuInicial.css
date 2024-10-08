@@ -15,7 +15,7 @@ body {
 
 main{
     width: 100%;
-    height: 100%;
+    height: 95%;
     display: flex;
 }
 
@@ -39,10 +39,11 @@ main{
 
 .infos-div > h2 {
     width: 70%;
+    height: 40%;
     text-wrap:wrap;
     font-size: 70pt;
     font-family: "Poppins";
-    line-height: 10vh;
+    line-height: 11vh;
 
 
 }
@@ -51,3 +52,42 @@ main{
     font-family: "Poppins";
     font-size: 20pt;
 }
+
+.imagens-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#button-access {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    padding: 1.3vh;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 30px;
+    transition: all ease 1s;
+}
+
+#button-access:after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+}
+
+#button-access:hover {
+    background-color: white;
+    color: black;
+}
+
+#button-acce:hover:after{
+    width: 100%;
+  }
