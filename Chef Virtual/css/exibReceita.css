@@ -15,3 +15,27 @@
     justify-content: flex-end;
     margin-right: 10vh;
 }
+
+#img_receita{
+    width: 52vh;
+    height: 36vh;
+    margin-left: 17vh;
+}
+
+.seta_voltar{
+    width: 3vh;
+    margin-right: 1vh;
+}
+
+.voltar>p{
+    font-family: 'poppins';
+    font-size: 20px;    
+}
+
+.voltar{
+    display: flex;
+    justify-content: baseline;
+    margin-left: 17vh;
+    margin-top: 5vh;
+    width: 16vh;
+}
