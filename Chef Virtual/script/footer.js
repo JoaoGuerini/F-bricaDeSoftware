@@ -9,10 +9,10 @@ class Footer extends HTMLElement {
         <footer>
         <div class="footerNav">
             <ul>
-            <li><a href="">Quem Somos</a></li>
-            <li><a href="">Política de privacidade</a></li>
-            <li><a href="">Termos de uso</a></li>
-            <li><a href="">Contato</a></li>
+            <li><a href="#">Quem Somos</a></li>
+            <li><a href="#">Política de privacidade</a></li>
+            <li><a href="#">Termos de uso</a></li>
+            <li><a href="#">Contato</a></li>
             </ul>
             </div>
         </footer>`
