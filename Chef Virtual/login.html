@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Chef Virtual</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <div class="centraliza-tudo">
+        <div class="fundo-com-imagem">
 
+            <div class="caixa-de-login">
+                <div class="logo">
+                    <img src="./img/logo.png" alt="">
+                </div>
+                <form action="login.php" method="POST">
+                    <div class="campo-entrada">
+                        <i class="fas fa-user"></i>
+                        <input type="text" id="usuario" name="usuario" placeholder="Usuário" required>
+                    </div>
+                    
+                    <div class="campo-entrada">
+                        <i class="fas fa-lock"></i>
+                        <input type="password" id="senha" name="senha" placeholder="Senha" required>
+                    </div>
+                    
+                    <div class="esqueci-senha">
+                        <a href="recupSenha.html">Esqueceu a senha?</a>
+                    </div>
+                   
+                    <button type="submit" class="botao-login">Login</button>
+                </form>
+              
+                <div class="outras-opcoes-login">
+                    <div class="icones-redes-sociais">
+                        <img src="img/apple-logo-1-1 1.png" alt="Login Apple">
+                        <img src="img/Google-Symbol 1.png" alt="Login Google">
+                    </div>
+                </div>
+        
+                <div class="link-cadastro">
+                    <p>Não possui conta? <a href="cadastro.html">Cadastre-se</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</body>
+</html>
