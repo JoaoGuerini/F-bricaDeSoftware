@@ -32,11 +32,10 @@ body{
 .salgados{
     display: flex;
     justify-content: center;
-  
     align-items: center;
     position: fixed;
     width: 80%;
-    margin-bottom: 16.5%;
+    margin-bottom: 10.1%;
 }
 .cfrias{
     
@@ -52,9 +51,9 @@ body{
 }
 
 .cat2 {
-    height: auto;
     margin-left: 150%;
     width: 89%;
+    
 }
 
 .cat3{
@@ -65,7 +64,7 @@ body{
 .cat4{
     width:90%;
     margin-left: 130%;
-    
+    margin-top: -28%;
 }
 
 .text1{
